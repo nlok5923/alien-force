@@ -2,6 +2,6 @@
 
 ## Basic use : 
 
-![demonstration](demonstration.gif)
+![demonstration](demonstration_new.gif)
 
 ### will add more aliens in the mean time.
