@@ -1,0 +1,21 @@
+{
+  "name": "alien-force-log-con",
+  "version": "1.0.1",
+  "description": "A collection module of some the ben10 aliens ",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin":{
+    "bigchill":"./bigchill.js",
+    "cannonbolt":"./cannonbolt.js",
+    "humungousaur":"./humungousaur.js",
+    "rath":"./rath.js",
+    "swampfire":"./swapfire.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["aliens","ben10","js","npm"],
+  "author": "Nitanshu Lokhande <nlokhande5923@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
